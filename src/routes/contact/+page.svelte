@@ -14,7 +14,7 @@
 
 <div class="all-prose">
   <h1>Contact</h1>
-  <p>Hey! Want to reach out?</p>
+  <p>Hey! Want to touch out?</p>
   <p>
     Want to talk about conference invites, private training, podcast
     appearances?

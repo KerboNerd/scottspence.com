@@ -1,4 +1,4 @@
-export const name = `Scott Spence`
+export const name = `Vladenorovich Putheno`
 
 export const website = `https://scottspence.com`
 

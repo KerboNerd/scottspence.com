@@ -8,24 +8,22 @@
   <div class="hero">
     <div class="flex-col p-0 hero-content lg:flex-row-reverse">
       <img
-        src="/mug-face.png"
-        alt="Cartoon face Scott"
-        class="rounded-full max-w-sm shadow-xl w-1/2 lg:w-full"
+        src="/R.png"
+        alt="sexy bladimir buttin"
+        class="p-8 rounded-full max-w-sm shadow-xl w-1/2 lg:w-full"
       />
       <div class="all-prose lg:mr-28">
         <h1 class="font-bold mb-5 text-5xl">
-          <span class="block">Scott Spence</span>
+          <span class="block">Bladimir Buttin</span>
           <span
-            class="bg-clip-text bg-gradient-to-b from-primary to-secondary text-transparent block"
-            >Hello World!</span
+            class="text-[60px] bg-clip-text bg-gradient-to-b from-primary to-secondary text-transparent block"
+            >Conquerer of Worlds!</span
           >
         </h1>
         <p class="mb-5">
-          This is my blog where I write about many things, including,
-          but not limited to JavaScript, React, Gatsby, Tailwind,
-          Svelte and many more web dev related topics.
+          God I hate r/Ukraine its full of western suburb kids who are so stupid and such nps that they believe that al Russians are guilty for being russian.
         </p>
-        <p class="mb-5">
+        <!-- <p class="mb-5">
           Check out that massive picture of my <a
             href="https://www.cockneyrhymingslang.co.uk/slang/boat_race"
             target="_blank"
@@ -33,20 +31,21 @@
           >! What do you think? If you want to crack on then check out
           some of the stuff I'm writing about on the
           <a href="/posts">posts page</a>.
-        </p>
+        </p> -->
         <p class="mb-5">
-          You can carry on scrolling for a bit more info about me if
-          you like.
+          “Dude protest putin” “Dude just overthrow the government”
         </p>
         <p class="mb-10">
-          Or if you want to get in touch, feel free to reach out to
-          me...
+          Are these people actually that retarted, do they think they can just except people to throw their life away for protesting the government or get themselves killed for organising a coup. 
+          Even if al Russian are Ukrainian hating nationalist, considering the huge propaganda machine Russia has I am still not gonna consider them responsible for their own thoughts. 
+          Fuck r/Ukraine and al the western dumbfucks who lack critical thinking or empathy and in most cases both. 
+          (Bdw never saw the same responds from these fuckers when it was the us invading iraq but then it wasn’t their fault but the media yeah sure
         </p>
         <a
           href="/contact"
           on:click={() => trackGoal(`T2YXL68Y`)}
           class="btn btn-md w-full lg:btn-lg btn-primary text-primary-content mb-5 hover:text-primary-content"
-          >Get in Touch</a
+          >Touch a Kid</a
         >
       </div>
     </div>
